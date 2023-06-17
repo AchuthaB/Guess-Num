@@ -1,0 +1,16 @@
+body{
+    background-color: teal;
+}
+.main{
+    margin-left: 230px;
+    margin-top: 1px;
+}
+.box{
+    border: 2px solid black;
+    margin-top: 200px;
+    height: 400px;
+    width: 500px;
+    background-color: rgb(224, 89, 65);
+    margin-left: 580px;
+}
+
